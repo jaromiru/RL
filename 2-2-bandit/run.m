@@ -13,6 +13,5 @@ function run
     legend(p1, 'greedy', '0.99', '0.9', '0.6')
     
     subplot(2,1,2);
-    plot(opt');
-    
+    plot(opt');   
 end
